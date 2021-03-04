@@ -7,8 +7,6 @@
 我们从未留意春秋不见，更不相信曾誓不分离的人，
 </br>
 有天也会变成一春一秋，咫尺天涯……
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavileLee&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,e96443,904e95&show_icons=true&locale=en&layout=compact&title_color=fff)](https://github-readme-stats.vercel.app/api/top-langs/?username=SavileLee&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,e96443,904e95&show_icons=true&locale=en&layout=compact&title_color=fff)
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/SavileLee)](https://github.com/SavileLee)
