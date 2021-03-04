@@ -1,12 +1,17 @@
 <p align="center">
 <img width="210" height="210" align="left" style="float: left; margin: 0 10px 0 0;" src="https://raw.githubusercontent.com/SavileLee/SavileLee/home/SavileLee.png" alt="SavileLee"/>
 </br>
-  <h1 align="center">
+  <h1>
     <b>Hi, I'm <a href="https://dreamstart.site">SavileLee</a>  </b>
   </h1>
-使用 Qt 框架的跨平台 V2Ray 客户端。支持 Windows, Linux, macOS
+我们从未留意春秋不见，更不相信曾誓不分离的人，
 </br>
-插件系统支持 SSR / Trojan / Trojan-Go / NaiveProxy
+有天也会变成一春一秋，咫尺天涯
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/clsivo)](https://github.com/clsivo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clsivo/)](https://www.linkedin.com/in/clsivo/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/clsivo)](https://twitter.com/clsivo)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivocontato1@gmail.com)](mailto:ivocontato1@gmail.com)
+
 </p>
 
 
