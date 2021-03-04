@@ -1,3 +1,14 @@
+<p align="center">
+<img width="210" height="210" align="left" style="float: left; margin: 0 10px 0 0;" src="https://raw.githubusercontent.com/SavileLee/SavileLee/home/SavileLee.png" alt="SavileLee"/>
+</br>
+<h1>Qv2ray - Unleash Your V2Ray</h1> 
+使用 Qt 框架的跨平台 V2Ray 客户端。支持 Windows, Linux, macOS
+</br>
+插件系统支持 SSR / Trojan / Trojan-Go / NaiveProxy
+</p>
+
+
+
 <p>
   <h1 align="center">
     <b>Hi, I'm <a href="https://dreamstart.site">SavileLee</a>  </b>
