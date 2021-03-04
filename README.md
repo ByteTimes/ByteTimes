@@ -14,13 +14,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SavileLee)](https://twitter.com/SavileLee)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liyesen@gmail.com)](mailto:liyesen@gmail.com)
 
-
-<p>
-  <a href="https://github.com/SavileLee">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SavileLee&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  </a>
-</p>
-
 <p>
   <a href="https://github.com/SavileLee">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SavileLee&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,2c8acd,d5eeff&title_color=fff&text_color=fff" />
