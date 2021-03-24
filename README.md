@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SavileLee/)](https://www.linkedin.com/in/SavileLee/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SavileLee)](https://twitter.com/SavileLee)
+[![Twitter Badge](https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social&link=https://twitter.com/SavileLee)](https://twitter.com/SavileLee)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-1ca0f1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liyesen@gmail.com)](mailto:liyesen@gmail.com)
 
 <p>
