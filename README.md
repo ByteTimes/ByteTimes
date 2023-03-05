@@ -8,8 +8,8 @@
 </p>
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1ca0f1?style=lightgrey&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SavileRow/)](https://www.linkedin.com/in/SavileLee/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=lightgrey&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SavileRow)](https://twitter.com/SavileLee)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1ca0f1?style=lightgrey&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SavileRow/)](https://www.linkedin.com/in/SavileRow/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=lightgrey&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SavileRow)](https://twitter.com/SavileRow)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-1ca0f1?style=lightgrey&logo=Gmail&logoColor=white&link=mailto:liyesen@gmail.com)](mailto:liyesen@gmail.com)
 
 <p>
