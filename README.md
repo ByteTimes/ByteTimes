@@ -8,12 +8,12 @@
 </p>
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1ca0f1?style=lightgrey&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ByteFiles/)](https://www.linkedin.com/in/SavileRow/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=lightgrey&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ByteFiles)](https://twitter.com/SavileRow)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1ca0f1?style=lightgrey&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ByteTimes/)](https://www.linkedin.com/in/SavileRow/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=lightgrey&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ByteTimes)](https://twitter.com/SavileRow)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-1ca0f1?style=lightgrey&logo=Gmail&logoColor=white&link=mailto:liyesen@gmail.com)](mailto:liyesen@gmail.com)
 
 <p>
   <a href="https://github.com/CHN-L">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ByteFiles&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,2c8acd,d5eeff&title_color=fff&text_color=fff" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ByteTimes&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,2c8acd,d5eeff&title_color=fff&text_color=fff" />
   </a>
 </p>
