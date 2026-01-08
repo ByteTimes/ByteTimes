@@ -13,7 +13,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-1ca0f1?style=lightgrey&logo=Gmail&logoColor=white&link=mailto:liyesen@gmail.com)](mailto:liyesen@gmail.com)
 
 <p>
-  <a href="https://github.com/CHN-L">
+  <a href="https://github.com/ByteTimes">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ByteTimes&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,2c8acd,d5eeff&title_color=fff&text_color=fff" />
   </a>
 </p>
