@@ -14,6 +14,6 @@
 
 <p>
   <a href="https://github.com/ByteTimes">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ByteTimes&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,2c8acd,d5eeff&title_color=fff&text_color=fff" />
+    <img alt="GitHub Stats" src="https://raw.githubusercontent.com/ByteTimes/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   </a>
 </p>
