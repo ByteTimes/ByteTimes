@@ -2,9 +2,9 @@
 <img width="210" height="210" align="left" style="float: left; margin: 0 10px 0 0;" src="https://avatars.githubusercontent.com/u/58343733?s=460&u=b8c05d0428f2a7c942a2625cf9898c2fe7cce00a&v=4" alt="LOGO"/>
 
 <h1>Hello, I'm <a href="https://dreamstart.site">Dreamstart.site</a></h1>
-我们从未留意春秋不见，更不相信曾誓不分离的人，
+静坐常思己过，闲谈莫论人非
 
-有天也会变成一春一秋，咫尺天涯……
+我们争不过岁月，跑不赢时间，唯有用自己喜欢的方式，迎接每一个日出日落……
 </p>
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
