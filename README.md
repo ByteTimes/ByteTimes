@@ -16,11 +16,11 @@
   <a href="https://github.com/ByteTimes">
     <img alt="GitHub Stats" src="https://raw.githubusercontent.com/ByteTimes/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   </a>
-
+</p>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=4000&pause=2000&color=667788&center=true&vCenter=true&random=false&width=400&lines=Copyright+%C2%A9+2026+ByteTimes.+All+rights+reserved." />
 
 </div>
-</p>
+
